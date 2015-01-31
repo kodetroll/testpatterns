@@ -6,5 +6,7 @@
 # remember to add your user to the 'video' group to avoid requiring sudo:
 # 'sudo usermod -a -G video {your username}'
 #
+# See also: http://www.raspberrypi.org/forums/viewtopic.php?f=27&t=15182
+#
 fbi images/
 
