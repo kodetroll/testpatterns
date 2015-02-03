@@ -9,7 +9,8 @@ generator to replace a more expensive device. It works, but there are some
 gotchas (to be expected, actually, 16:9 vs 4:3 aspect ratios, for example). 
 
 This program is a bash script wrapper around the frame buffer image viewer
-program (fbi). You will need to install the frame buffer utilities packages
+program (fbi). You will need to install fbi (sudo apt-get install fbi) and
+probably the frame buffer utilities packages
 for your device, may be some others are well. One day I will work out the 
 dependencies. So anyway, it works, use it, or not.
 
